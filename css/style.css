@@ -1,9 +1,13 @@
 /********** Template CSS **********/
 :root {
-    --primary: #5B8C51;
+    --primary: #c272ed;
     --secondary: #EDDD5E;
     --light: #F7F7F7;
-    --dark: #404A3D;
+    --dark: #5e3773;
+}
+
+.hidden{
+  hidden;
 }
 
 .back-to-top {
@@ -474,7 +478,7 @@
 
 /*** Footer ***/
 .footer {
-    color: #B0B9AE;
+    color: #b5aeb9;
 }
 
 .footer .btn.btn-link {
